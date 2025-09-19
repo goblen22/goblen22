@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank">goblen22</a> 
+<h1 align="center">Hi there, I'm <a href="https://nerd.az/wp-content/uploads/2020/07/21888938.gif" target="_blank">goblen22</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Information security student, IT news writer from Russia 🇷🇺</h3>
 
