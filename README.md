@@ -4,5 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70807&width=435&lines=Brute+force+active.;Data+extracted.+Sorting+phase.;Camera+hijacked.+Feed+live.;Location+tracked.+Coordinates+locked.;We'll+keep+an+eye+on+you!)](https://git.io/typing-svg)
 
-<h1 align="center">Languages and Tools:</a> 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+**Languages and Tools:**
+  
+<h2><code><img width="40" height="40" src="https://img.icons8.com/fluency/48/python.png" alt="python"/></code>
+<code><img width="40" height="40" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/></code>
+<code><img width="40" height="40" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/></code>
+<code><img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/></code>
+<code><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/burp-suite.png" alt="burp-suite"/></code>
+<code><img width="40" height="40" src="https://img.icons8.com/fluency/48/metasploit.png" alt="metasploit"/></code>
+<code><img width="40" height="40" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/></code>
+<code><img width="40" height="40" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/></code>
