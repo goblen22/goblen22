@@ -5,4 +5,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70807&width=435&lines=Brute+force+active.;Data+extracted.+Sorting+phase.;Camera+hijacked.+Feed+live.;Location+tracked.+Coordinates+locked.;We'll+keep+an+eye+on+you!)](https://git.io/typing-svg)
 
 <h1 align="center">Languages and Tools:</a> 
-<img scr="home/goblen22/Downlouds/metasploit.svg">
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
