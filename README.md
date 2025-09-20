@@ -31,5 +31,4 @@ Hello, I'm <a href="https://nerd.az/wp-content/uploads/2020/07/21888938.gif" tar
 <code><img width="60" heigth="60" alt="image" src="https://i.redd.it/g6aru443rs3d1.jpeg" /></code>
 
 
-![hacker](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h0OHV0MDZldnBwcnhsbG51aXd4bHY3MjA5aThzOGRxcHBjaTY0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AeHLxU7TZXCPS/giphy.gif)
 </div>
