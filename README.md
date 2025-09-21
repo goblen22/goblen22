@@ -7,6 +7,8 @@ Hello, I'm <a href="https://nerd.az/wp-content/uploads/2020/07/21888938.gif" tar
 
 <div align="center">
 
+<img width="400" height="400" src="https://media.tenor.com/Zp9f2I9FpFcAAAAM/anonimous-hacker.gif" alt="python"/>
+
 **Languages and Tools:**
   
 <code><img width="40" height="40" src="https://img.icons8.com/fluency/48/python.png" alt="python"/></code>
