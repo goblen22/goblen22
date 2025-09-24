@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70807&width=435&lines=Brute+force+active.;Data+extracted.+Sorting+phase.;Camera+hijacked.+Feed+live.;Location+tracked.+Coordinates+locked.;We'll+keep+an+eye+on+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70807&width=492&height=100&lines=echo+%22%5B%2B%5D+Starting+penetration+test%22111;nmap+-sS+-sV+-O+192.168.1.1%2F24;gobuster+dir+-u+http%3A%2F%2F192.168.1.100+;ssh+-i+id_rsa+root%40target.com;echo+%22%5B!%5D+System+compromised!%22;We'll+keep+an+eye+on+you!)](https://git.io/typing-svg)
 
 <p align="center">
   <samp>
