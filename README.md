@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F70807&width=800&height=100&lines=echo+%22%5B%2B%5D+Starting+penetration%22;nmap+-sS+192.168.1.0%2F24+%3E+scan.txt+%26%26;gobuster+dir+-u+http%3A%2F%2F192.168.1.100+-w+common.txt;ssh+-i+id_rsa+root%40target.com;echo+%22%5B!%5D+System+compromised!%22;We'll+keep+an+eye+on+you!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F70807&width=800&height=50&lines=echo+%22%5B%2B%5D+Starting+penetration%22;nmap+-sS+192.168.1.0%2F24+%3E+scan.txt+%26%26;gobuster+dir+-u+http%3A%2F%2F192.168.1.100+-w+common.txt;ssh+-i+id_rsa+root%40target.com;echo+%22%5B!%5D+System+compromised!%22;We'll+keep+an+eye+on+you!!!)](https://git.io/typing-svg)
 
 <p align="center">
   <samp>
