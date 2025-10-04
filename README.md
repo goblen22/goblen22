@@ -32,6 +32,4 @@ Hello, I'm <a href="https://nerd.az/wp-content/uploads/2020/07/21888938.gif" tar
 <code><img width="37" heigth="37" alt="image" src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png"/></code>
 <code><img width="60" heigth="60" alt="image" src="https://i.redd.it/g6aru443rs3d1.jpeg" /></code>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 </div>
