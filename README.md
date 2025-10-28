@@ -4,6 +4,8 @@
   <samp>
 Hello, I'm <a href="https://nerd.az/wp-content/uploads/2020/07/21888938.gif" target="_blank">goblen22</a>. I'm a Russian student of Information Security 🇷🇺. I very much love a pentest and want to become the best in this way.
 </p> 
+    
+---
 
 <div align="center">
 
@@ -31,5 +33,11 @@ Hello, I'm <a href="https://nerd.az/wp-content/uploads/2020/07/21888938.gif" tar
 <code><img width="37" heigth="37" alt="image" src="https://github.com/vanhauser-thc/thc-hydra/blob/master/xhydra.png"/></code>
 <code><img width="37" heigth="37" alt="image" src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png"/></code>
 <code><img width="60" heigth="60" alt="image" src="https://i.redd.it/g6aru443rs3d1.jpeg" /></code>
+
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=ff0000&authorColor=ff0000)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=goblen22&height=300&line=ff0000&point=ff0000&area_color=ff000020&color=ff0000&title_color=ff0000&bg_color=00000000&hide_border=true)
 
 </div>
