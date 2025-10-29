@@ -25,11 +25,11 @@ if __name__ == "__main__":
     ssh_port = 2222
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        socket.setsockort(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         sock.bind((server, ssh_port))
         sock.listen(100)
         print('[+] Listening for connection ...')
-        client, addr = socket.accept()
+        client, addr = sock.accept()
     except Exception as e:
         print('[-] Listen failed: ' + str(e))
         sys.exit()
