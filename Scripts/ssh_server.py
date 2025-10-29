@@ -1,3 +1,6 @@
+# Фаил test_rsa.key можно взять из репозитория --> https://github.com/paramiko/paramiko/
+# test_rsa.key may to rake there --> https://github.com/paramiko/paramiko/
+
 import os
 import paramiko
 import socket
